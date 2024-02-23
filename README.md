@@ -1,4 +1,12 @@
 ### Hi there 👋
+- 🔭 Currently pursuing my studies at Veteran East Java University
+- 📚 Majoring in Information Systems 
+- 🌱 Passionate about diving into the world of data
+- ☁️🌐 In love with Internet 
+- 📫Reach me on:
+    - [LinkedIn](https://www.linkedin.com/in/wahyuabrory/)
+    - [E-mail](wahyuabrory@gmail.com)
+
 
 <!--
 **wahyuabrory/wahyuabrory** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
