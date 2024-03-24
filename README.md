@@ -21,9 +21,9 @@
 
 #### Languages
 
-<img src="https://skillicons.dev/icons?i=html,css,javascript,java" />
+<img src="https://skillicons.dev/icons?i=html,css,javascript,php" />
 <br>
-<img src="https://skillicons.dev/icons?i=python,flutter,dart,bash" />
+<img src="https://skillicons.dev/icons?i=python,java,dart,bash" />
 
 
 #### Databases
