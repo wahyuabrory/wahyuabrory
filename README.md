@@ -2,7 +2,7 @@ hej 👋🏻, I'm abrory. I work across engineering, machine learning, and IT.
 
 # Skills
 
-<img src="./skills-v2.svg" alt="Abrory's technology stack" width="100%">
+<img src="./skills-v3.svg" alt="Abrory's technology stack" width="100%">
 
 # Contact
 
